@@ -406,23 +406,23 @@ nav ul li{
     font-weight: 400;
     gap: 20px;
 }
-/* .footer{
+.footer{
     /* padding-top: 80px; */
-/* } */ */
-/* .footer-contant{
+} 
+.footer-contant{
     background-position: center;
     background-image: url("./assets/footer-bg.png");
     padding: 120px;
     /* max-width: 1600px; */
-    /* align-items: center;
+    align-items: center;
     text-align: center;
     justify-content: center;
     color: #FAFAFA;
-} */ */
-/* .TechWave-f{
+}
+ .TechWave-f{
     padding:28px;
-} */
-/* .icon-img{
+} 
+.icon-img{
     display: flex;
     align-items: center;
     text-align: center;
@@ -430,8 +430,8 @@ nav ul li{
     gap: 40px;
     padding-bottom:28px;
 
-} */
-/* .icon-img span{
+}
+.icon-img span{
     display: flex;
     align-items: center;
     text-align: center;
@@ -439,12 +439,12 @@ nav ul li{
     font-size: 16px;
     font-style: 500;
     color: #FFFFFF;
-} */
-/* .footer-end{
+}
+.footer-end{
     font-size: 16px;
     font-weight: 600;
     color: #FFFFFF;
-}  */
+}
 
 @media screen and (max-width:576px){
 
